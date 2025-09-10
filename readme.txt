@@ -4,7 +4,7 @@ This repository contains the official implementation of our paper:
 
 **"ROBUST DETECTION OF HUMAN LIFE THREATS ON SOCIAL NETWORK PLATFORMS USING DOMAIN-ADAPTIVE TRANSFORMERS"**
 
-The project leverages **BERT-based transformers with domain adaptation** and **focal loss** to address data imbalance, providing robust classification of life-threatening content into multiple categories.
+The project leverages **BERT-based transformers with domain adaptation** and **focal loss** to address data imbalance, providing robust classification of life-threatening content into multiple classes.
 
 ---
 
@@ -25,6 +25,7 @@ Install the required dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
 
 
 The Proposed Dataset Multi-class Human Life Threat Dataset can be downloaded from google drive link. (Once paper is published)
